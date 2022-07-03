@@ -1,0 +1,16 @@
+@import url('./badges.css');
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: .25rem;
+    border-radius: 8px;
+    width: max-content;
+}

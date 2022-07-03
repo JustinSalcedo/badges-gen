@@ -1,0 +1,38 @@
+:root {
+    --bg-landingpage: #FD5300;
+    --bg-prototype: #BDFF79;
+    --bg-restfulapi: #FEF7EB;
+    --bg-webapp: #FE01E4;
+    --bg-e-store: #FFF316;
+    --bg-website: #0168EE;
+}
+
+.badge.bg-landingpage {
+    background-color: var(--bg-landingpage);
+    color: #fff;
+}
+
+.badge.bg-prototype {
+    background-color: var(--bg-prototype);
+    color: #000;
+}
+
+.badge.bg-restfulapi {
+    background-color: var(--bg-restfulapi);
+    color: #000;
+}
+
+.badge.bg-webapp {
+    background-color: var(--bg-webapp);
+    color: #fff;
+}
+
+.badge.bg-e-store {
+    background-color: var(--bg-e-store);
+    color: #000;
+}
+
+.badge.bg-website {
+    background-color: var(--bg-website);
+    color: #fff;
+}
